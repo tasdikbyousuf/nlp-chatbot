@@ -19,27 +19,7 @@ This is a simple chatbot implemented in Python using spaCy for natural language 
    - Clone the repository:
 
      ```
-     git clone https://github.com/your-username/chatbot.git
-     ```
-
-   - Install the required dependencies:
-
-     ```
-     pip install -r requirements.txt
-     ```
-
-2. **Run the Chatbot:**
-
-   - Navigate to the directory containing the chatbot files:
-
-     ```
-     cd chatbot
-     ```
-
-   - Run the chatbot:
-
-     ```
-     python chatbot.py
+     git clone https://github.com/tasdikbyousuf/nlp-chatbot.git
      ```
 
 3. **Interact with the Chatbot:**
@@ -48,6 +28,5 @@ This is a simple chatbot implemented in Python using spaCy for natural language 
    - You can interact with the chatbot by typing messages. You can ask questions, provide input, or inquire about its capabilities.
    - To exit the chat, type "goodbye" or "exit".
 
-## Contribution
-
-Contributions to the project are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+## Required Modules
+random, spacy, datetime
